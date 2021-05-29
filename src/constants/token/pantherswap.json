@@ -114,6 +114,14 @@
       "logoURI": "/images/coins/BCH-icon.png"
     },
     {
+      "name": "Wrapped NewYorkCoin",
+      "symbol": "WNYC",
+      "address": "0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/WNYC.png"
+    },
+    {
       "name": "Litecoin Token",
       "symbol": "LTC",
       "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
