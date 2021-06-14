@@ -25,61 +25,61 @@ const config: MenuEntry[] = [
       // },
     ],
   },
-  // {
-  //   label: 'Farms',
-  //   icon: 'FarmIcon',
-  //   href: 'https://pantherswap.com/farms',
-  // },
-  // {
-  //   label: 'Pools',
-  //   icon: 'PoolIcon',
-  //   href: 'https://pantherswap.com/pools',
-  // },
-  // {
-  //   label: 'Jungles',
-  //   icon: 'JungleIcon',
-  //   href: 'https://pantherswap.com/jungles',
-  // },
-  // {
-  //   label: 'Lottery',
-  //   icon: 'TicketIcon',
-  //   href: 'https://pantherswap.com/lottery',
-  // },
-  // {
-  //   label: 'IPO',
-  //   icon: 'IfoIcon',
-  //   href: 'https://pantherswap.com/ipo',
-  // },
-  // {
-  //   label: 'Referrals',
-  //   icon: 'ReferralIcon',
-  //   href: 'https://pantherswap.com/referrals',
-  // },
-  // {
-  //   label: 'Audits',
-  //   icon: 'ShieldIcon',
-  //   href: 'https://docs.pantherswap.com/security/audits',
-  // },
+  {
+    label: 'Farms',
+    icon: 'FarmIcon',
+    href: 'https://pantherswap.com/farms',
+  },
+  {
+    label: 'Pools',
+    icon: 'PoolIcon',
+    href: 'https://pantherswap.com/pools',
+  },
+  {
+    label: 'Jungles',
+    icon: 'JungleIcon',
+    href: 'https://pantherswap.com/jungles',
+  },
+  {
+    label: 'Lottery',
+    icon: 'TicketIcon',
+    href: 'https://pantherswap.com/lottery',
+  },
+  {
+    label: 'IPO',
+    icon: 'IfoIcon',
+    href: 'https://pantherswap.com/ipo',
+  },
+  {
+    label: 'Referrals',
+    icon: 'ReferralIcon',
+    href: 'https://pantherswap.com/referrals',
+  },
+  {
+    label: 'Audits',
+    icon: 'ShieldIcon',
+    href: 'https://docs.pantherswap.com/security/audits',
+  },
   {
     label: 'Features',
     icon: 'FeatureIcon',
     items: [
-      // {
-      //   label: 'Automatic LP',
-      //   href: 'https://docs.pantherswap.com/tokenomics/automatic-liquidity',
-      // },
-      // {
-      //   label: 'Automatic Burning',
-      //   href: 'https://docs.pantherswap.com/tokenomics/automatic-burning',
-      // },
-      // {
-      //   label: 'Harvest Lockup',
-      //   href: 'https://docs.pantherswap.com/tokenomics/harvest-lockup',
-      // },
-      // {
-      //   label: 'Anti-Whale',
-      //   href: 'https://docs.pantherswap.com/tokenomics/anti-whale',
-      // },
+      {
+        label: 'Automatic LP',
+        href: 'https://docs.pantherswap.com/tokenomics/automatic-liquidity',
+      },
+      {
+        label: 'Automatic Burning',
+        href: 'https://docs.pantherswap.com/tokenomics/automatic-burning',
+      },
+      {
+        label: 'Harvest Lockup',
+        href: 'https://docs.pantherswap.com/tokenomics/harvest-lockup',
+      },
+      {
+        label: 'Anti-Whale',
+        href: 'https://docs.pantherswap.com/tokenomics/anti-whale',
+      },
     ],
   },
   // {
@@ -110,8 +110,8 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'BscScan',
-        href: 'https://bscscan.com/token/0x1f546ad641b56b86fd9dceac473d1c7a357276b7',
-      }
+        href: 'https://bscscan.com/token/0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69',
+      },
       // {
       //   label: 'DappRadar',
       //   href: 'https://dappradar.com/binance-smart-chain/defi/pantherswap',
