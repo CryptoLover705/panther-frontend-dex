@@ -120,6 +120,13 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "/images/coins/WNYC.png"
+    },{
+      "name": "Wrapped X6coin",
+      "symbol": "WX6",
+      "address": "0x9d695845ec8a46a64074414021184e5bf0fe046a",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/WX6.png"
     },
     {
       "name": "Litecoin Token",
