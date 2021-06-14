@@ -27,12 +27,12 @@ If you are seeking to be added to the [Pancakeswap.finance](https://pancakeswap.
 
 ```json
 {
-"name": "PantherSwap Token",
-"symbol": "PANTHER",
-"address": "0x1f546ad641b56b86fd9dceac473d1c7a357276b7",
+"name": "Wrapped NewYorkCoin",
+"symbol": "WNYC",
+"address": "0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69",
 "chainId": 56,
 "decimals": 18,
-"logoURI": "/images/coins/PANTHER.png"
+"logoURI": "/images/coins/WNYC.png"
 },
 ```
 
